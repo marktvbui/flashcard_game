@@ -1,0 +1,24 @@
+Basic,What is the name of Ned Stark's Sword?,Ice
+Basic,How was Ned killed?,beheaded
+Basic,What is the name of Jon's Direwolf?,ghost
+Basic,How many dragons does Daenerys have?,3
+Basic,What is the Stark's sigil?,direwolf
+Basic,What is the Lannister's sigil?,Lion
+Basic,What is the Targaryen's sigil?,3 headed dragon
+Basic,What is the name of Jon's sword?,longclaw
+Cloze,Khal Drogo was Daenery's first husband.,Khal Drogo
+Cloze,Tyrion is an imp.,Tyrion
+Cloze,The Red Wedding was when the Frey's killed Rob Stark, his wife and his mom.,Red Wedding
+Cloze,Arya killed off the entire Frey men.,Arya
+Cloze,Daenerys has three dragons.,three
+Cloze,Stark family moto: 'Winter is coming',Stark
+Cloze,Lannister family moto: 'always pay our debts',Lannister
+Cloze,Targaryen family moto: 'fire and blood',Targaryen
+Cloze,Iron throne is the seat of kings.,Iron throne
+Cloze,Daenerys landed on DragonStone.,DragonStone
+Cloze,Jon is now King of the North.,Jon
+Cloze,Sansa has been married to Tyrion and Ramsey.,Sansa
+Cloze,Ayra is now a faceless man.,Ayra
+Cloze,Jaime now has a golden hand.,Jaime
+Cloze,Needle is the name of Ayra's sword.,Needle
+Basic,What enemy is marching on the wall?,White walkers
